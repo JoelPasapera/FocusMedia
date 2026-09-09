@@ -13,9 +13,10 @@
   </p>
   
   <p>
-    Importante: Para iniciar sesion, usa una cuenta descartable
+    Importante: Para iniciar sesion, usa una cuenta de Instagram descartable
     o que no te importe perder debido a posibles suspensiones y bloqueos ya que el 
-    comportamiento automatizado a menudo es bloqueado. 
+    comportamiento automatizado a menudo es bloqueado. Ademas, se recomienda no solo
+    usar una cuenta diferente si no tambien cambiar de dispositivo (Se registra cuenta y direccion)
   </p>
   
   
