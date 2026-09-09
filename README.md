@@ -4,7 +4,7 @@
 
   <h1>FocusMedia</h1>
 
-  <p><strong>Seguimiento local de seguidores y seguidos de Instagram</strong></p>
+  <p><strong>Registra y analiza los seguidores y seguidos de una cuenta de Instagram</strong></p>
 
   <p>
     Una herramienta de escritorio en Python para capturar listas de relaciones,
