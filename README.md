@@ -9,11 +9,16 @@
   <p>
     Una herramienta de escritorio en Python para capturar listas de relaciones,
     detectar cambios entre capturas y construir un historial sobre los datos
-    que ya tienes guardados. Importante: Para iniciar sesion, usa una cuenta descartable
-    o que no te importe perder debido a posibles suspensiones y bloqueos ya que el 
-    comportamiento automatizado a menudo es bloqueado.
+    que ya tienes guardados. 
   </p>
-
+  
+  <p>
+    Importante: Para iniciar sesion, usa una cuenta descartable
+    o que no te importe perder debido a posibles suspensiones y bloqueos ya que el 
+    comportamiento automatizado a menudo es bloqueado. 
+  </p>
+  
+  
   <p>
     <a href="#-características">Características</a> ·
     <a href="#-arquitectura">Arquitectura</a> ·
