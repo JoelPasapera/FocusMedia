@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 instagram_listas.py  ·  v2
-==========================
+===========================
 
 Descarga y compara las listas de SEGUIDORES y SEGUIDOS de una cuenta de
 Instagram, usando la sesión que ya tienes abierta en tu navegador.
@@ -232,8 +232,8 @@ def limpiar_usuario(texto: str) -> str:
     parámetros), el nombre con @ delante, y espacios sobrantes. Devuelve
     cadena vacía si no hay un perfil ahí dentro.
 
-        https://www.instagram.com/yomira.milagros/  ->  yomira.milagros
-        @yomira.milagros                            ->  yomira.milagros
+        https://www.instagram.com/persona.ejemplo/  ->  persona.ejemplo
+        @persona.ejemplo                            ->  persona.ejemplo
         instagram.com/p/ABC123/                     ->  ''  (es una publicación)
     """
     t = (texto or "").strip()
