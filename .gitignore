@@ -1,0 +1,24 @@
+# Sesiones de Instagram: cada una equivale a estar dentro de esa cuenta.
+# Se ignora la CARPETA entera, no archivo por archivo: así una sesión nueva
+# queda cubierta sin tener que acordarse de añadirla aquí.
+sesiones/
+
+# De cuando andaban sueltas en la raíz (antes de la v6.8).
+sesion_instagram.json
+sesiones.json
+
+config_gui.json
+ajustes.json
+salida/
+__pycache__/
+*.tmp
+
+# Lo que dejan las pruebas al ejecutarse
+salida_pruebas_*.txt
+bin
+ARCHITECTURE.md
+PROJECT_CONTEXT.md
+manifest.json
+CRITERIOS.md
+skills-diseno.txt
+CLAUDE.md
